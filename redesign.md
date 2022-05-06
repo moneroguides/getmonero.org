@@ -79,9 +79,9 @@ I like the FAQ as it is, it offers itself up as a decent method of short cutting
 
 (15)(M)(C)  “Socials” is meant as a more inclusive renaming of “hangouts”. And should include all the appropriate subreddits, matrix channels, telegram channels. Is Facebook still used? If not, it should be destroyed.
 
-## Crowd Funding
+## CrowdFunding
 
-(16)(M)(C) Crowd funding is an important part of the Monero community, for this reason I propose a new top level directory called just that.
+(16)(M)(C) Crowdfunding is an important part of the Monero community, for this reason I propose a new top level directory called just that.
 
 (17)(C) Included should be all the ways one can donate and get funded should they have a worthy idea. The emergence of different trusted platforms should be reflected here.
 
