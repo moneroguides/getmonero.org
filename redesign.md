@@ -20,7 +20,7 @@ Getmonero.org is THE primary Monero centric website and is hosted by the core te
 
 ### About Getmonero.org
 
-This page is currently focused on telling us about Monero. This is totally atypical; the about section of most websites cover information about those who hosts it. The current content is written as if Monero itself is reading you its biography.
+This page is currently focused on telling us about Monero. This is totally atypical; the about section of most websites cover information about those who host it. The current content is written as if Monero itself is reading you its biography.
 
 (1) (C)I believe that for a new and more robust website to exist, this is the first thing that needs to addressed. In other words the “about” section needs to talk about the core team.
 
