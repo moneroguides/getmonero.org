@@ -4,7 +4,7 @@
 
 ## Intro
 
-Without metrics, this is all purely speculation and opinion, but hopefully it resonates with those interested such that these ideas can be adopted. This does not focus on aesthetics but content and structure and suggests a new framework from which to progress.
+Without metrics, this is all purely speculation and opinion, but hopefully it resonates with those interested such that these ideas can be adopted. The purpose is not focus on aesthetics but content and structure and suggests a new framework from which to progress.
 
 My approach is one loosely attributed to a rpg adventure. I would say 90% (sounds like a good figure) of people head to getmonero with something in mind. It’s the job of the website to lead them on a journey of self discovery. 
 
